@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./Inter-Bold.ttf);
+}
+
+
+div{  
+    margin-top: 73px;
+    margin-left: 86px;
+    width: 1249px;
+    height: 376px;
+    border-radius: 30px;
+    background-color: #22F4DA;
+}
+
+
+/*
+div{  
+     margin:0 auto;
+     margin-top: 73px;
+     width: 1249px;
+     height: 376px;
+     border-radius: 30px;
+     background-color: #22F4DA;
+ }
+ */
+
+h1{
+    padding-top: 29px;
+    margin-top: 102px;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+
+}
